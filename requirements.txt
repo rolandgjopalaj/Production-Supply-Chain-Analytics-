@@ -1,0 +1,5 @@
+pandas
+sqlalchemy>=2.0,<2.1   # 2.1 non ha fallback se Windows blocca le estensioni compilate
+pyodbc
+python-dotenv
+jupyter
